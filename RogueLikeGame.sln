@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RogueLikeGame", "RogueLikeGame\RogueLikeGame.csproj", "{04B6298C-ABD5-4E58-9C4D-4DBEE71F114D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{37BA0B06-C9A6-41C3-B9FA-ABAB79E3B1DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{4B582306-28B3-4F48-AAEE-CF0A03DFA181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B6298C-ABD5-4E58-9C4D-4DBEE71F114D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B6298C-ABD5-4E58-9C4D-4DBEE71F114D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B6298C-ABD5-4E58-9C4D-4DBEE71F114D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B6298C-ABD5-4E58-9C4D-4DBEE71F114D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BA0B06-C9A6-41C3-B9FA-ABAB79E3B1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BA0B06-C9A6-41C3-B9FA-ABAB79E3B1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BA0B06-C9A6-41C3-B9FA-ABAB79E3B1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BA0B06-C9A6-41C3-B9FA-ABAB79E3B1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B582306-28B3-4F48-AAEE-CF0A03DFA181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B582306-28B3-4F48-AAEE-CF0A03DFA181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B582306-28B3-4F48-AAEE-CF0A03DFA181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B582306-28B3-4F48-AAEE-CF0A03DFA181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BF4A58E-D333-4482-A0FC-5AC609AB67DF}
+	EndGlobalSection
+EndGlobal
