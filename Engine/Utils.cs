@@ -17,7 +17,6 @@ namespace Engine
 		static public SpriteBatch? SpriteBatch;
 		static public Camera? MainCamera;
 		static public Scene? DefaultScene;
-
 		static public Random Random = new Random();
 		static public GraphicsDevice? GraphicsDevice;
 
